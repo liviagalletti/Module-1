@@ -6,7 +6,7 @@ The system allows management of products that are related to categories stored i
 
 To use the program, simply run the Python script and use the interactive command-line menu to manage products and categories.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/muFiv3AQxh8)
 
 ---
 
